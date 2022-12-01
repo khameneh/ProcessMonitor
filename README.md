@@ -15,15 +15,13 @@ any platform that supports Qt, i.e. Linux, Windows, Mac, and even Android.
 
 Dependencies
 ============
-Other that the Qt libraries, for managing the foreground process wmctrl should be install on Linux
-
-wmctrl
+Other that the Qt libraries, wmctrl should be install on Linux for managing the foreground process 
 
 Compiling
 =========
 The best practice is to use QtCreator to compile and execute it. But as required by the project
 it can be also opened and compiled using Visual Studio Code. In order to do that Qt Tools for
-Visual Studio Code must be installed.
+Visual Studio Code must be installed: shttps://marketplace.visualstudio.com/items?itemName=tonka3000.qtvsctools
 
 Testing
 =======
