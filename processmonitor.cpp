@@ -97,6 +97,7 @@ void ProcessMonitor::manageForegroundProcess()
                 processName = processName.mid(1, processName.length()-2);
             }
         }
+
         // bring the process to the foreground using the wmctrl command
         if (processName == foreground_process_name_)
         {
