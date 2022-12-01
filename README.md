@@ -43,7 +43,7 @@ In this example three processes exist, two of which are graphical. gimp is execu
 thunderbird is executed with the -mail parameter. All three are monitored and whichever crashes or closes
 will be restarted.
 
-LOGGING
+Logging
 =======
 ProcessMonitor already logs to stderr, in order to log it into a file run it like the following:
 
