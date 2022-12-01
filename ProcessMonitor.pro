@@ -20,5 +20,5 @@ HEADERS += \
     processmonitor.h
 
 DISTFILES += \
-    README \
+    README.md \
     config
