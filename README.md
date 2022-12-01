@@ -25,7 +25,7 @@ Visual Studio Code must be installed: https://marketplace.visualstudio.com/items
 
 Testing
 =======
-The implemented methods are too simple make automated testing for them, and they also require interaction
+The implemented methods are too simple to make automated testing for them, and they also require interaction
 with external processes. Therefore the functionality is only manually tested.
 
 Usage
