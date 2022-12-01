@@ -8,7 +8,7 @@ It also dynamically updates the foreground process. The application lacks this f
 as the means to determine the process name in Windows differs. A multiplatform function can be
 utilized to extend this feature to Windows as well.
 
-Crossplatform Capbility
+Crossplatform Capability
 =======================
 ProcessMonitor is designed to use crossplatform Qt libraries, so it inherently can be compiled in
 any platform that supports Qt, i.e. Linux, Windows, Mac, and even Android.
