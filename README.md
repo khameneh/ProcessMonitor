@@ -35,9 +35,9 @@ the command of the process to be executed. The parameters simply follow the comm
 is the foreground process a * is added to the end of the correspoinding process line.
 For example:
 
-vim
-gimp*
-thunderbird -mail
+vim<br>
+gimp*<br>
+thunderbird -mail<br>
 
 In this example three processes exist, two of which are graphical. gimp is executed on the foreground and
 thunderbird is executed with the -mail parameter. All three are monitored and whichever crashes or closes
