@@ -6,7 +6,9 @@ they aren't running. It also maintains one process window on the foreground. It 
 the config file and starts newly added processes, or stops starting processes that are removed.
 It also dynamically updates the foreground process. The application lacks this feature on Windows,
 as the means to determine the process name in Windows differs. A multiplatform function can be
-utilized to extend this feature to Windows as well.
+utilized to extend this feature to Windows as well.<br>
+As required, all code is commented, written in C++, but developed using my preferred IDE QtCreator,
+Although it is fully compatible with visual studio code, with the qt tools extension. 
 
 Crossplatform Capability
 =======================
