@@ -19,8 +19,7 @@ Other that the Qt libraries, wmctrl should be installed on Linux for managing th
 
 Compiling
 =========
-The best practice is to use QtCreator to compile and execute it. But as required by the project
-it can be also opened and compiled using Visual Studio Code. In order to do that Qt Tools for
+The best practice is to use QtCreator to compile and execute it. It can be also opened and compiled using Visual Studio Code. In order to do that Qt Tools for
 Visual Studio Code must be installed: https://marketplace.visualstudio.com/items?itemName=tonka3000.qtvsctools
 
 Testing
