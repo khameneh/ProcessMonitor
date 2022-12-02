@@ -8,7 +8,7 @@ It also dynamically updates the foreground process. The application lacks this f
 as the means to determine the process name in Windows differs. A multiplatform function can be
 utilized to extend this feature to Windows as well.<br>
 As required, all code is commented, written in C++, but developed using my preferred IDE QtCreator,
-Although it is fully compatible with visual studio code, with the qt tools extension. 
+Although it is fully compatible with visual studio code with the qt tools extension. 
 
 Crossplatform Capability
 =======================
