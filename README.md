@@ -33,7 +33,7 @@ Usage
 =====
 A config file should be written for it named "config" and placed in the current directory. Each line represents
 the command of the process to be executed. The parameters simply follow the command. To indicate which process
-is the foreground process a * is added to the end of the correspoinding process line.
+is the foreground process a * is added to the end of the corresponding process line.
 For example:
 
 vim<br>
