@@ -17,7 +17,7 @@ any platform that supports Qt, i.e. Linux, Windows, Mac, and even Android.
 
 Dependencies
 ============
-Other that the Qt libraries, wmctrl should be installed on Linux for managing the foreground process.
+Other than the Qt libraries, wmctrl should be installed on Linux for managing the foreground process.
 
 Compiling
 =========
